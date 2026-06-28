@@ -13,3 +13,8 @@ A calculator built directly on Win32 + Vulkan without the C runtime.
 - String library
 - Math library
 
+## Run (Windows)
+
+- Launch Calculator.sln
+- Set Configutation to Release x64
+- Run
