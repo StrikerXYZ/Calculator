@@ -1,0 +1,182 @@
+#round_1_welcome
+
+So... you wish to become a Guess Master?
+
+You've come to the right place.
+
+The rules are simple.
+Pick the right number.
+
+Sounds easy, doesn't it?
+
+
+#round_1_first_guess
+First try? That would have been impressive.
+
+Not the right number.
+Good news. The number hasn't changed.
+
+Did I mention the mines?
+
+Step on one and say good bye to your career
+
+After each guess you will see the distance to the nearest mine
+under the "Danger" column
+
+Study it carefully.
+
+
+#round_1_success
+Correct!
+
+A simple trial for a rising talent.
+
+You earn 10 points!
+The more points you hold, the higher your score
+
+#round_fail
+Boom!
+
+You found a mine.
+
+You may restart the trial
+The points you earned will remain.
+
+#round_continue_1
+The mines remain silent.
+But the number isn't the one.
+
+#round_continue_2
+An interesting guess.
+Incorrect.
+
+#round_continue_3
+A bold guess.
+But not the correct one.
+
+#round_continue_4
+The mines stay quiet.
+Yet the number eludes you.
+
+#round_continue_5
+Your courage is noted.
+Your anwswer is not.
+
+#round_continue_6
+The trial continues.
+That was not the number.
+
+#round_continue_7
+An admirable attempt.
+Incorrect.
+
+#round_2_intro
+The field expands.
+Six choices. Two mines.
+
+You may keep your points...
+or risk them.
+
+Place a bet before each guess.
+Win, and it doubles.
+Miss, and its gone.
+
+The number still remains until found.
+
+Choose wisely.
+
+#round_2_success_bet
+A decisive guess.
+
+Your wager pays off.
+
+#round_2_success
+Well chosen.
+
+You advance.
+
+#round_2_fail
+Boom!
+
+You struck a mine.
+
+This trial resets...
+but your points remain.
+
+A new field is prepared
+
+#round_bet_lost
+Your wager is lost.
+
+#round_3_intro
+No mines this time.
+
+But the number... moves.
+It shifts by 1 after every guess
+
+It wraps around.
+
+Can you catch it?
+
+#round_4_intro
+The number turns back.
+It shifts down by 1.
+
+And the mine is back.
+
+Can you catch it-
+or lose your footing?
+
+Can you catch it?
+
+#round_5_intro
+Impressive.
+
+You have come far.
+
+Now the number leaps by 7!
+One mine stands in your way.
+
+Let's see if your instincts hold.
+
+#round_6_intro
+Few have made it this far.
+
+The number shifts...
+but its rhythm is hidden.
+
+It shifts by 1, 2, or 3.
+One mine stands in your way.
+
+The mines have rested.
+
+Find the pattern-
+or fall behind.
+
+#round_7_intro
+...
+
+This is unexpected.
+
+None have come this far.
+
+The number shifts as before-
+1, 2, or 3.
+
+Three mines stands in your way.
+
+This is it.
+
+The final trial.
+
+For the title of Guess Master!
+
+#ending
+...
+
+Incredible.
+
+You have done it.
+
+You are now-
+The GUESS MASTER!!

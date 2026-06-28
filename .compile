@@ -1,0 +1,41 @@
+# List of source files
+FILES=
+	source/unity.c
+
+# Compiler flags
+FLAGS = 
+	-Wall
+	-Wextra
+	-Werror
+	-Wno-unused-variable
+	-Wno-unused-parameter
+	-Wno-unused-function
+	-Wno-comment
+	-Wno-unused-macros
+	-Wno-assign-enum
+	-Wno-declaration-after-statement
+	-Wno-unsafe-buffer-usage
+	-Wno-shadow
+	-Wno-vla
+	-O1
+	-g
+	-std=c23
+	-fno-fast-math
+	
+WINDOWS_FLAGS=
+  -Iexternal/vulkan/include
+  -Lexternal/vulkan/library
+  -luser32
+  -lkernel32
+  -lvulkan-1
+  -Wl,/entry:EntryPoint
+  -Wl,/subsystem:windows
+  
+LINUX_FLAGS=
+  -ldl
+  -lm
+  -lpthread
+  -lvulkan
+
+# Output executable
+OUT = binary/debug/Spark
